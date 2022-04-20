@@ -7,7 +7,8 @@ Hola ✌️  soy el explorer Emmanuel y este es mi blog personal donde compartir
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-Mis expectativas para este proyecto son: <br>
+Mis expectativas para este proyecto son
+
 🪐 Aumentar mis conocimientos sobre el mundo del backend. <br>
 🪐 Conocer la interacción y conexión entre frontend y backend. <br>
 🪐 Poder crear páginas Dinámicas con NodeJS y tener mayores oportunidades laborales. <br>
