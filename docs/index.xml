@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Emmanuel Hernández</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://antoni-codes.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://antoni-codes.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Viaje sin Retorno</title>
+      <link>https://antoni-codes.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://antoni-codes.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Sin duda una experiencia esperada, el conocer nuevas tecnologias y lenguajes como Python, generarón en mi una gran expectativa sobre lo que se vendría, el hecho de saber que python es tan amigable y sobre todo aplicar conocimientos generales en la estructura de programación, logrando esa seguridad en que los fundamentos los tengo absorbidos.
+¡Increíble!, el saber que mi camino siempre ha sido rumbo al front-end reafirmarón mi ideología, y el aplicar conocimientos aprendiendos como autodidacta, han logrado mostrar mi potencial y sobre todo, el saber que es mi área de fortaleza y gusto por el diseño web, el Mission Commander sin miedo a equivocarme una persona totalmente experimentada, y hizo mucho más fácil el proceso de fronend, me hubiera gustado aprender los frameworks con mayor profundidad y tiempo, pero el utilizar este roadmap, me permite el saber que camino seguir.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarroll@dor de Software</title>
       <link>https://antoni-codes.github.io/my_launchx_blog/posts/intro/</link>
